@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 131824440b3ffa444b446ed1e4c6b428, type: 3}
+  m_Name: RandomStarSprite
+  m_EditorClassIdentifier: 
+  star:
+  - {fileID: 21300000, guid: 96aaf0a7d6a206c4c83a6f63d2c13f9a, type: 3}
+  - {fileID: 21300000, guid: e9b8ae9dc3e61b145ab5d6d699e3e6d0, type: 3}
+  - {fileID: 21300000, guid: 492ee255e1f702f4ea25fc77baa92207, type: 3}
+  everyImage_Giyeok:
+  - {fileID: 21300000, guid: 145d41037cf772e4db6a7ccb3979b042, type: 3}
+  - {fileID: 21300000, guid: 79b7c706e17981847a9eeda39e19eee2, type: 3}
+  - {fileID: 21300000, guid: 0cbb18b69cc6b5e4eaa8b5632f745e27, type: 3}
+  - {fileID: 21300000, guid: 727463a2610100e4e97651d7a37d84a8, type: 3}
+  everyAudio_Giyeok:
+  - {fileID: 8300000, guid: 9ac5c3ba4e049f249b00190a45458294, type: 3}
+  - {fileID: 8300000, guid: 2bed9df9260c5904bbb2feeaa660ccc0, type: 3}
+  - {fileID: 8300000, guid: a7b1e177390a31d4e82addbb3dbbdd17, type: 3}
+  - {fileID: 8300000, guid: fc7fd04916475ed4380e9c4a77338a70, type: 3}
+  - {fileID: 8300000, guid: 47c20b0330c65344da7a47b7c71a850a, type: 3}
+  - {fileID: 8300000, guid: 55ffd5e1349b7c745a082a5a37c2515c, type: 3}
+  everyImage_Nieun:
+  - {fileID: 21300000, guid: ed23e81fc8cf23e4796a90dc56bdf0c4, type: 3}
+  - {fileID: 21300000, guid: ee076f3981843894ca7f7a690cea9336, type: 3}
+  - {fileID: 21300000, guid: 7a6205af33d3ddf47a32f3657a259cb3, type: 3}
+  - {fileID: 21300000, guid: 5d685661719cf004f9ff7f790f47026b, type: 3}
+  - {fileID: 21300000, guid: d468381e4f3971b4a91627ca92027259, type: 3}
+  Random_Gimage:
+  - {fileID: 21300000, guid: c736d5d9bcf56844eb32805fc5daa95c, type: 3}
+  - {fileID: 21300000, guid: 26b71dded5349e647881ab159cafd33d, type: 3}
+  - {fileID: 21300000, guid: 71da089282892b84e887c4f85029b5bd, type: 3}
+  - {fileID: 21300000, guid: 3ea619f37cf777244a96c84b3a49ce39, type: 3}
+  - {fileID: 21300000, guid: 18b0fa70ceb64a947b1e97080894d561, type: 3}
+  Random_Nimage:
+  - {fileID: 21300000, guid: 9005653f9d035d6439a918ce124cd910, type: 3}
+  - {fileID: 21300000, guid: af05c3ef2d2115f4389c235382ae8418, type: 3}
+  - {fileID: 21300000, guid: b6b56c0383fb7e8419a8eab5ba4ec42f, type: 3}
+  Random_Dimage:
+  - {fileID: 21300000, guid: e61b43aa4fb8dd543a69efad034e3468, type: 3}
+  - {fileID: 21300000, guid: b19df6525ae0f374d9f5bacc4a7d3b8e, type: 3}
+  - {fileID: 21300000, guid: 23e925bc5b336af408d4ae41079fe935, type: 3}
+  Random_letter_G:
+  - {fileID: 21300000, guid: c5913ca91632c214b900bfe8e02fd64a, type: 3}
+  - {fileID: 21300000, guid: c16238b8c2b695b4baef0ff480f335b1, type: 3}
+  - {fileID: 21300000, guid: 8d76a1577e1af8c4e9671dde8b8670c5, type: 3}
+  - {fileID: 21300000, guid: 3bbcde7de431c1841b02fd668bc9db9a, type: 3}
+  - {fileID: 21300000, guid: 7e693da7e676b86458fdcf25cb5be52a, type: 3}
+  Random_letter_N:
+  - {fileID: 21300000, guid: ef552cefa8854854d81fff9eb7ff1072, type: 3}
+  - {fileID: 21300000, guid: c23dfbef9bb80d74b9f206986a83077e, type: 3}
+  - {fileID: 21300000, guid: 2df64028dca31b549acd735b0bad8b4a, type: 3}
+  Random_letter_D:
+  - {fileID: 21300000, guid: c7860656e733d134aa2a18a84d0589e6, type: 3}
+  - {fileID: 21300000, guid: 15fc645e271477943bf59dec69dcd47d, type: 3}
+  - {fileID: 21300000, guid: e5bdc4dbfafafca43a2e2b4b0ae1de26, type: 3}
+  Random_letter_G2:
+  - {fileID: 21300000, guid: b7d0813cc8c37b2419f26285d68b6002, type: 3}
+  - {fileID: 21300000, guid: 6cf7f850c010b84468e2b2473d0315b4, type: 3}
+  - {fileID: 21300000, guid: 147ae5e86bb0d974b91bb42ecfd0d6d5, type: 3}
+  - {fileID: 21300000, guid: 5eef3a6bd9ab5b94b9021beabb8b34f7, type: 3}
+  - {fileID: 21300000, guid: 65ace12b736a2414e96d99358157e84b, type: 3}
+  Random_letter_N2:
+  - {fileID: 21300000, guid: 529b65841d637dc44aedb384e98444c3, type: 3}
+  - {fileID: 21300000, guid: f6d64af6d2cc1014d9b86d3d5872c151, type: 3}
+  - {fileID: 21300000, guid: 90f3598c0fe937b41bde602c4c0bc59e, type: 3}
+  Rnadom_letter_D2:
+  - {fileID: 21300000, guid: 7d9ff142480671b44ba80745e6eaff72, type: 3}
+  - {fileID: 21300000, guid: fb7c7ec01765fd347881315ca4392a2e, type: 3}
+  - {fileID: 21300000, guid: e53aa43ee83ddb246952cad4320dbb8c, type: 3}
